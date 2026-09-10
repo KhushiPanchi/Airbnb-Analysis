@@ -63,7 +63,7 @@ Walkthrough of Key Visuals
 -	Seasonality: It is a Ribbon chart which explains the total percentage of monthly reviews each of the top city gets.
 -	Trust: It is a KPI kind of visual that compares the percentage of people on different aspects such does have Profile Pic or not and Identity verified or not.
 ## Dashboard Preview
-![Airbnb Dashboard page1]()
+![Airbnb Dashboard page1](https://github.com/KhushiPanchi/Airbnb-Analysis/blob/main/dashboard-screenshots/Page1.png)
 ![Airbnb Dashboard page2]()
 ![Airbnb Dashboard page3]()
 ## Conclusion
