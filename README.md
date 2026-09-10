@@ -62,7 +62,9 @@ Walkthrough of Key Visuals
 -	Review Frequency: It is line and column chart where the columns gives information about the total number of people gives specific reviews and line explains the Cumulative % review frequency.
 -	Seasonality: It is a Ribbon chart which explains the total percentage of monthly reviews each of the top city gets.
 -	Trust: It is a KPI kind of visual that compares the percentage of people on different aspects such does have Profile Pic or not and Identity verified or not.
-## Dashboard Visuals
-
+## Dashboard Preview
+![Airbnb Dashboard page1]()
+![Airbnb Dashboard page2]()
+![Airbnb Dashboard page3]()
 ## Conclusion
 This project successfully transformed raw Airbnb listings and review data into an interactive and insightful Power BI dashboard.Through data cleaning, transformation, modeling, DAX calculations, and visualization, the project provides a comprehensive view of the Airbnb marketplace and its key performance indicators and answers different kind of questions.
