@@ -65,6 +65,6 @@ Walkthrough of Key Visuals
 ## Dashboard Preview
 ![Airbnb Dashboard page1](https://github.com/KhushiPanchi/Airbnb-Analysis/blob/main/dashboard-screenshots/Page1.png)
 ![Airbnb Dashboard page2](https://github.com/KhushiPanchi/Airbnb-Analysis/blob/main/dashboard-screenshots/page2.png)
-![Airbnb Dashboard page3]()
+![Airbnb Dashboard page3](https://github.com/KhushiPanchi/Airbnb-Analysis/blob/main/dashboard-screenshots/page3.png)
 ## Conclusion
 This project successfully transformed raw Airbnb listings and review data into an interactive and insightful Power BI dashboard.Through data cleaning, transformation, modeling, DAX calculations, and visualization, the project provides a comprehensive view of the Airbnb marketplace and its key performance indicators and answers different kind of questions.
