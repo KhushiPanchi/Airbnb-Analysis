@@ -64,7 +64,7 @@ Walkthrough of Key Visuals
 -	Trust: It is a KPI kind of visual that compares the percentage of people on different aspects such does have Profile Pic or not and Identity verified or not.
 ## Dashboard Preview
 ![Airbnb Dashboard page1](https://github.com/KhushiPanchi/Airbnb-Analysis/blob/main/dashboard-screenshots/Page1.png)
-![Airbnb Dashboard page2]()
+![Airbnb Dashboard page2](https://github.com/KhushiPanchi/Airbnb-Analysis/blob/main/dashboard-screenshots/page2.png)
 ![Airbnb Dashboard page3]()
 ## Conclusion
 This project successfully transformed raw Airbnb listings and review data into an interactive and insightful Power BI dashboard.Through data cleaning, transformation, modeling, DAX calculations, and visualization, the project provides a comprehensive view of the Airbnb marketplace and its key performance indicators and answers different kind of questions.
